@@ -1,2 +1,2 @@
 # Quantative-trading-strategy
-Still building
+Still implementing
